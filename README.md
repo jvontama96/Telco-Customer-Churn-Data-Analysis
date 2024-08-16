@@ -35,7 +35,8 @@ This project involves an exploratory data analysis (EDA) of customer churn withi
 - **Average Spending of No Dependents in Each Churn Group**: Analyzed the average spending of customers with no dependents across different churn statuses.
 
 ## Conclusion
-In the no dependents customer group, the number of non-churned customers is higher than that of churned customers, and the non-churned customers have a higher average TotalCharges. This indicates that churned customers in the no dependents group are not big spenders, as evidenced by their lower average total charges compared to non-churned customers.
+1. Overall, customers without dependents exhibit a higher churn count, irrespective of their senior citizen status. Specifically, customers without senior citizen status and no dependents represent the segment with the highest churn rate, reaching 1089 churned customers.
+2. In the no dependents customer group, the number of non-churned customers is higher than that of churned customers, and the non-churned customers have a higher average TotalCharges. This indicates that churned customers in the no dependents group are not big spenders, as evidenced by their lower average total charges compared to non-churned customers.
 
 ---
 
